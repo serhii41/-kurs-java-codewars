@@ -14,7 +14,8 @@ Opposite number
 Grasshopper - Summation
 5 https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
-codewars6 https://www.codewars.com/kata/55225023e1be1ec8bc000390
+Jenny's secret message
+6 https://www.codewars.com/kata/55225023e1be1ec8bc000390
 
 codewars7 https://www.codewars.com/kata/582cb0224e56e068d800003c
 
