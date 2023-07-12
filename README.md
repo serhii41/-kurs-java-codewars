@@ -20,7 +20,8 @@ Jenny's secret message
 Keep Hydrated!
 7 https://www.codewars.com/kata/582cb0224e56e068d800003c
 
-codewars8 https://www.codewars.com/kata/643af0fa9fa6c406b47c5399
+Quadrants
+8 https://www.codewars.com/kata/643af0fa9fa6c406b47c5399
 
 codewars9 https://www.codewars.com/kata/5b853229cfde412a470000d0
 
