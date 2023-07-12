@@ -12,3 +12,5 @@ codewars4 https://www.codewars.com/kata/56dec885c54a926dcd001095
 codewars5 https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
 codewars6 https://www.codewars.com/kata/55225023e1be1ec8bc000390
+
+codewars7 https://www.codewars.com/kata/582cb0224e56e068d800003c
