@@ -17,7 +17,8 @@ Grasshopper - Summation
 Jenny's secret message
 6 https://www.codewars.com/kata/55225023e1be1ec8bc000390
 
-codewars7 https://www.codewars.com/kata/582cb0224e56e068d800003c
+Keep Hydrated!
+7 https://www.codewars.com/kata/582cb0224e56e068d800003c
 
 codewars8 https://www.codewars.com/kata/643af0fa9fa6c406b47c5399
 
