@@ -6,7 +6,7 @@ Volume of a Cuboid
 
 Debug sayHello2 https://www.codewars.com/kata/5625618b1fe21ab49f00001f
 
-codewars3 https://www.codewars.com/kata/50654ddff44f800200000004
+Multiply3 https://www.codewars.com/kata/50654ddff44f800200000004
 
 codewars4 https://www.codewars.com/kata/56dec885c54a926dcd001095
 
