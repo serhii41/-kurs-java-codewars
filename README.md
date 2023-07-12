@@ -11,7 +11,8 @@ Multiply3 https://www.codewars.com/kata/50654ddff44f800200000004
 Opposite number
 4 https://www.codewars.com/kata/56dec885c54a926dcd001095
 
-codewars5 https://www.codewars.com/kata/55d24f55d7dd296eb9000030
+Grasshopper - Summation
+5 https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
 codewars6 https://www.codewars.com/kata/55225023e1be1ec8bc000390
 
